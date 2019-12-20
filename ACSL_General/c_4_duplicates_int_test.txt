@@ -1,0 +1,13 @@
+RESET simple simon
+REPORT 4
+ADD simply said something slowly
+REPORT 4
+DELETE so say something
+REPORT 4
+RESET peter piper picked a peck of pickled
+REPORT 7
+DELETE pickled
+DELETE sunflowers
+ADD pickled
+ADD sunflowers
+REPORT 5

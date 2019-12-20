@@ -1,0 +1,2 @@
+BIT, 9, A, C, D, E, F, G, H, J, K
+BITE, 10, B, A, C, D, I, T, E, X, Y, Z

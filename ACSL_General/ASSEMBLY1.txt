@@ -1,0 +1,18 @@
+A DC 1
+B DC 2
+C DC 3
+  PRINT C
+  LOAD A
+  MULT C
+  STORE A
+  PRINT A
+  DIV B
+  STORE C
+  PRINT C
+  SUB A
+  STORE B
+  PRINT B
+  ADD A
+  STORE A
+  PRINT A
+  END

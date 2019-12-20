@@ -1,0 +1,20 @@
+X DC 4
+Y DC 6
+  LOAD X
+  ADD Y
+  STORE Z
+  PRINT Z
+  STORE X
+  PRINT X
+  MULT Y
+  DIV X
+  STORE Z
+  PRINT Z
+  SUB X
+  STORE Z
+  PRINT Z
+W DC -2
+  DIV W
+  STORE Z
+  PRINT Z
+  END

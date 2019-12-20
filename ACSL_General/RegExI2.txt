@@ -1,0 +1,6 @@
+#, xx, yz, xz, xy, xyz, xxyz, xyyz, yzz, xxxyz
+x[xyz]yz
+x.z
+x[^y]z
+x{1,4}yz
+x*yz

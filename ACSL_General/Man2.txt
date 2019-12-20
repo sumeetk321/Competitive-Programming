@@ -1,0 +1,5 @@
+ACSL, 8, A, D, E, F, G, H, I, J
+CHICAGO, 10, A, B, C, D, E, F, G, H, I, J
+ILLINOIS, 16, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X
+ALLSTAR, 14, A, B, C, D, E, F, G, H, I, J, K, L, M, N
+GOOGLE, 4, G, O, L, E
