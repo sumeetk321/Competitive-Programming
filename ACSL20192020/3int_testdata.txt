@@ -1,0 +1,5 @@
+~A~B+AB+~CD+C~D
+B~D+AC+~A~B+CD
+~ABD+~BCD+D
+~A~BD+~A~BD+AC+BD
+~ABC~D+A~B~C~D+~A~B~C
